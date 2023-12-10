@@ -1,0 +1,16 @@
+@media (max-width:1024px) {
+  
+  .hero {
+    min-height: 1058px;
+
+    }
+  .hero__img-top, .hero__img-left, .hero__img-rigth  {
+    height: 300px;
+  }
+  .hero__img-left {
+    top: 160px;
+  }
+  .hero__img-rigth {
+    top: 158px;
+  }
+}
