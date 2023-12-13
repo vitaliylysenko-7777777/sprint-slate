@@ -492,6 +492,15 @@ img {
   cursor: pointer;
 }
 
+.extensions__btn:focus {
+  background-color: aqua;
+}
+.extensions__btn:hover {
+  background-color: rgb(34, 228, 34);
+}
+.extensions__btn:active {
+  background-color: #5C5C5C;
+}
 /* Gelery */
 .gelery {
   margin-bottom: 100px;
