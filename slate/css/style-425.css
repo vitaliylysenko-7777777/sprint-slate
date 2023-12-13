@@ -1,0 +1,14 @@
+@media (max-width:430px) {
+  .header {
+    gap: 0;
+  }
+  .hero__img-top, .hero__img-left, .hero__img-rigth  {
+    height: 47%;
+  }
+  .hero__img-left {
+    top: 77px;
+  }
+  .hero__img-rigth {
+    top: 73px;
+  }
+}

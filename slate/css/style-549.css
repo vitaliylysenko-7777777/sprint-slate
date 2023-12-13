@@ -63,6 +63,9 @@
   }
 
   /*hero*/
+  .hero {
+    min-height: 100px;
+  }
   .hero__title {
     max-width: 446px;
     font-size: 52px;
@@ -87,7 +90,18 @@
   .hero__btn-left {
     margin: 0;
   }
-
+  .hero__img {    
+    height: 300px;
+  }
+  .hero__img-top, .hero__img-left, .hero__img-rigth  {
+    height: 47%;
+  }
+  .hero__img-left {
+    top: 77px;
+  }
+  .hero__img-rigth {
+    top: 75px;
+  }
   /* opportunities_ */
   .opportunities__desc {
     max-width: 446px;
