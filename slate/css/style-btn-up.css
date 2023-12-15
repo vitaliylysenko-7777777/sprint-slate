@@ -23,6 +23,7 @@
   width: 60px;
   /* высота элемента */
   height: 50px;
+  z-index: 2;
 }
 
 .btn-up::before {
